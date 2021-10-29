@@ -1,7 +1,8 @@
 # Helping-Sunita-Sharma- By-Sharvil-Kashikar
 <img src="https://cdn.activestate.com/wp-content/uploads/2018/10/machine-learning-healthcare-blog-hero-1200x799.jpg" width="1100" height="300" />
-<p> This is one of major project of my undergraduate degree program.</p>
-<p>Here, I have developed a disease predicting web app which tells about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
+<p>Here we are trying to help people inn the age grpoups 65+.</p>
+<p>Below mentioned are some common dieseases the are found in that age group.</p>
+<p>By this medium we will try to make people like Sunita and others aware about the dieseases, their causes and prevention. </p>
 
 <hr>
 <h3> Down below are the names dieseases:</h3>
