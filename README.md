@@ -43,20 +43,14 @@
 <h3> Tools used for project development: </h3>
 <ul>
 <li><p><b>Python ( 3.7 version)</b></p></li>
-<li><p><b>Flask</b></p></li>
 <li><p><b>HTML</b></p></li>
 <li><p><b>CSS</b></p></li>
 </ul>
 
 <hr>
-
- <ul>
-  <li> $ set FLASK_APP= app.py</li>
-  <li> $ flask run</li>
-  </ul>
   
   <hr>
   
-  <p> The whole project is deployed on Heroku Cloud.
+  <p> The project is under Progress.
   
   <p> Thank you!</p>
