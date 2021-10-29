@@ -49,7 +49,6 @@
 
 <hr>
   
-  <hr>
   
   <p> The project is under Progress.
   
