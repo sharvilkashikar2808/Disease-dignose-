@@ -4,20 +4,20 @@
 <p>Here, I have developed a disease predicting web app which tells about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
 
 <hr>
-<h3> Down below are the names of the various model files used:</h3>
+<h3> Down below are the names dieseases:</h3>
 <ul>
-<li><p><b>Cancer model = model</b></p></li>
-<li><p><b>Diabetes model = model1</b></p></li>
-<li><p><b>Heart model = model2</b></p></li>
-<li><p><b>Liver model = model4</b></p></li>
-<li><p><b>Kidney model = model3</b></p></li>
+<li><p><b>Cancer </b></p></li>
+<li><p><b>Diabetes </b></p></li>
+<li><p><b>Heart </b></p></li>
+<li><p><b>Liver </b></p></li>
+<li><p><b>Kidney </b></p></li>
 
-<li><p><b>Malaria model = model111.h5</b></p></li>
-<li><p><b>Pneumonia model = my_model.h5</b></p></li>
+<li><p><b>Malaria </b></p></li>
+<li><p><b>Pneumonia </b></p></li>
 </ul>
 <hr>
 
-<h3> Kernals used for training deep learning model </h3>
+
 <ul>
 <li><p><b>Kernal for Malaria model :</b>https://https://www.cdc.gov/malaria/about/faqs.html#:~:text=Malaria%20is%20a%20serious%20and,humans%3A%20Plasmodium%20falciparum%2C%20P.</p></li>
 
