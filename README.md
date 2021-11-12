@@ -44,6 +44,7 @@
 <h3> Tools used for project development: </h3>
 <ul>
 <li><p><b>Python ( 3.7 version)</b></p></li>
+<li><p><b>Machine Learning</b></p></li>
 <li><p><b>HTML</b></p></li>
 <li><p><b>CSS</b></p></li>
 </ul>
