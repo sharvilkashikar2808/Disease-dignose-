@@ -20,18 +20,18 @@
 
 
 <ul>
-<h3>Kernels used for completing the project :</h3>
-<li><p><b>Kernal for Malaria model :</b>https://https://www.cdc.gov/malaria/about/faqs.html#:~:text=Malaria%20is%20a%20serious%20and,humans%3A%20Plasmodium%20falciparum%2C%20P.</p></li>
+<h3>Information used for completing the project :</h3>
+<li><p><b>Malaria model :</b>https://https://www.cdc.gov/malaria/about/faqs.html#:~:text=Malaria%20is%20a%20serious%20and,humans%3A%20Plasmodium%20falciparum%2C%20P.</p></li>
 
-<li><p><b>Kernal for Pneumonia model :</b>https://https://www.mayoclinic.org/diseases-conditions/pneumonia/symptoms-causes/syc-20354204#:~:text=Pneumonia%20is%20an%20infection%20that,and%20fungi%2C%20can%20cause%20pneumonia.</p></li>
+<li><p><b>Pneumonia model :</b>https://https://www.mayoclinic.org/diseases-conditions/pneumonia/symptoms-causes/syc-20354204#:~:text=Pneumonia%20is%20an%20infection%20that,and%20fungi%2C%20can%20cause%20pneumonia.</p></li>
 <hr>
 </ul>
 
 <h3> Details of various datasets used for model development : </h3>
 <ul>
-<li><p><b>Cancer</b> : cancer.csv [In the repository]</p></li>
-<li><p><b>Diabetes</b> : diabetes.csv [In the repository]</p></li>
-<li><p><b>Heart</b> : heart.csv [In the repository]</p></li>
+<li><p><b>Cancer</b> : cancer file [In the repository]</p></li>
+<li><p><b>Diabetes</b> : diabetes file [In the repository]</p></li>
+<li><p><b>Heart</b> : heart file [In the repository]</p></li>
 <li><p><b>Liver</b> : https://www.webmd.com/digestive-disorders/picture-of-the-liver#:~:text=The%20liver%20is%20a%20large,right%20and%20the%20left%20lobes. </p></li>
 <li><p><b>Kidney</b> : https://www.cancer.gov/publications/dictionaries/cancer-terms/def/kidney </p></li>
 
