@@ -1,4 +1,4 @@
-# Disease Diagnosis- By-Sharvil-Kashikar & Aditya Bali
+# Disease Diagnosis- By-Sharvil-Kashikar
 <img src="https://cdn.activestate.com/wp-content/uploads/2018/10/machine-learning-healthcare-blog-hero-1200x799.jpg" width="1100" height="400" />
 <p>Here we are trying to help people in the age grpoups 65+.</p>
 <p>Below mentioned are some common dieseases the are found in that age group.</p>
